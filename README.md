@@ -5,7 +5,7 @@ Mozillian
 ---------
 
 *   🌍  I'm based in Hampshire, UK.
-*   🚀  I'm currently working on [Voice Assist - a voice assistant for desktop Linux.](http://github.com/plwt/VoiceAssist).
+*   🚀  I'm currently working on [Voice Assist - a voice assistant for desktop Linux](http://github.com/plwt/VoiceAssist).
 *   🧠  I'm learning Python.
 *   🤝  I'm open to collaborating on making the open web more awesome.
 
