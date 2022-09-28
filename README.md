@@ -6,7 +6,7 @@ Mozillian
 
 *   🌍  I'm based in Hampshire, UK.
 *   🚀  I'm currently working on [Voice Assist - a voice assistant for desktop Linux](http://github.com/plwt/VoiceAssist).
-*   🧠  I'm learning Python.
+*   🧠  I'm learning Python, but also like making themes and add-ons for Firefox as well as building tools in Bash.
 *   🤝  I'm open to collaborating on making the open web more awesome.
 
 <a href="https://www.twitter.com/wrightp_" target="_blank" rel="noreferrer"><img
