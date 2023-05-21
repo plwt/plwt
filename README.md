@@ -9,10 +9,7 @@ Mozillian
 *   🧠  I'm learning Python, but also like making themes and add-ons for Firefox as well as building tools in Bash.
 *   🤝  I'm open to collaborating on making the open web more awesome.
 
-<a href="https://www.twitter.com/wrightp_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/wrightp_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/plwt" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/plwt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
